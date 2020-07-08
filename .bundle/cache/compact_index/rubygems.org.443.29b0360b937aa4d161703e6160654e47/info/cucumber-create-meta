@@ -1,0 +1,2 @@
+---
+1.0.0 cucumber-messages:>= 12.2.0&~> 12.2,sys-uname:>= 1.2.1&~> 1.2|checksum:5cab2f0a4df889af53750a670a1ae907981054e0e9bc2ace9436cbeab31a1144,ruby:>= 2.3
